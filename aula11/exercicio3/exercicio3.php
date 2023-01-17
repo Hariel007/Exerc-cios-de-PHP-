@@ -16,7 +16,7 @@
               <option value="dobro">2</option>
               <option value="quatro">4</option>
               <option value="seis">6</option>
-           </select><br>
+           </select><br> 
 
            <input type="submit" value="Enviar" class="botao">
         </form>
